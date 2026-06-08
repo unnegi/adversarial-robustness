@@ -1,0 +1,11 @@
+data/
+backend/data/
+*.tar.gz
+*.pth
+
+backend/data/
+data/
+backend/data/
+*.pth
+*.tar.gz
+checkpoints/
